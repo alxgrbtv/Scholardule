@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Scholardule</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="schedule_activity">Schedule Activity</string>
+    <string name="profile_activity">Profile Activity</string>
+    <string name="group_activity">Group Activity</string>
+    <string name="notes_activity">Notes Activity</string>
 </resources>

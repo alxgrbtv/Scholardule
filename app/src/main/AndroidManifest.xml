@@ -14,7 +14,19 @@
         android:theme="@style/Theme.Scholardule"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.scholardule.view.NotesActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.scholardule.view.GroupActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.scholardule.view.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.scholardule.view.ScheduleActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.scholardule.view.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
